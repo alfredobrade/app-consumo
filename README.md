@@ -1,1 +1,1 @@
-This aplication..
+This aplication is..
